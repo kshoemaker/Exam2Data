@@ -1,4 +1,4 @@
-Dog breed,category,POPULARITY IN US,"LIFETIME COST, $",1 INTELLIGENCE (TRAINABILITY) ranking,2 LONGEVITY,3 NO. OF GENETIC AILMENTS,"4a average purchase price, US$","4b food costs per year, US$",5b suitability for children ,size category,intelligence category,"4 LIFETIME COST, $",average purchase price (US $),price bracket,lowest (US$),highest (US$),"food per week, $","food per year, $","food per lifetime, $"
+Dog_breed,category,Popularity,Lifetime_Cost,INTELLIGENCE_ranking,Average_Lifetime,Genetic_Issues,Average_Price,Food_Cost_Per_Year,Suitability_for_Children,size_category,intelligence_category,Lifetime_Cost,Average_Purchase_Price,price_bracket,lowest_cost,highest_cost,Food_cost_per_week,Food_cost_per_year,Food_Cost_Lifetime
 Border Collie,herding,45,"$20,143 ",1,12.52,2,$623 ,$324 ,High,medium,Brightest,"17,404",623,budget,175,1050,5.34,278,"3,486"
 Border Terrier,terrier,80,"$22,638 ",30,14,0,$833 ,$324 ,Low,small,Above average,"19,575",833,mid-price,250,1200,5.34,278,"3,898"
 Brittany,sporting,30,"$22,589 ",19,12.92,0,$618 ,$466 ,Medium,medium,Excellent,"19,503",618,budget,300,1200,7.67,400,"5,171"
