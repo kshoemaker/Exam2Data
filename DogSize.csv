@@ -1,151 +1,149 @@
-Breed,height_low_inches,height_high_inches,weight_low_lbs,weight_high_lbs
-Affenpinscher,9,12,8,12
-Afghan Hound,25,27,50,60
-Airedale Terrier,22,24,45,45
-Akita,26,28,80,120
-Alaskan Malamute,0,0,0,0
-American Eskimo Dog,9,19,25,30
-American Foxhound,22,25,65,70
-American Staffordshire Terrier,17,19,40,50
-American Water Spaniel,15,18,25,45
-Anatolian Shepherd Dog,27,29,100,150
-Australian Cattle Dog,17,20,35,45
-Australian Shepherd,18,23,40,60
-Australian Terrier,10,10,10,14
-Basenji,17,17,20,22
-Basset Hound,14,14,40,50
-Beagle,13,16,18,30
-Bearded Collie,20,22,40,60
-Beauceron,24,27,100,120
-Bedlington Terrier,15,16,18,23
-Belgian Malinois,22,26,60,65
-Belgian Sheepdog,22,26,60,75
-Belgian Tervuren,22,26,60,75
-Bernese Mountain Dog,23,27,85,110
-Bichon Frise,9.5,11.5,10,18
-Black And Tan Coonhound,23,27,50,75
-Black Russian Terrier,25,29,80,140
-Bloodhound,24,26,80,120
-Border Collie,19,21,40,40
-Border Terrier,12,15,12,15
-Borzoi,26,28,70,100
-Boston Terrier,14,15,15,25
-Bouvier Des Flandres,23,27,75,95
-Boxer,21,25,65,70
-Briard,23,27,74,76
-Brittany,17,21,30,40
-Brussels Griffon,7,8,6,12
-Bulldog,12,16,50,60
-Bull Terrier,21,22,50,70
-Bullmastiff,25,27,100,130
-Canaan Dog,19,24,35,55
-Cairn Terrier,9,10,14,14
-Cardigan Welsh Corgi,10,12,25,35
-Cavalier King Charles Spaniel,10,15,15,20
-Chesapeake Bay Retriever,21,26,55,75
-Chihuahua,6,9,2,5
-Chinese Crested,11,13,5,12
-Chinese Shar Pei,18,20,45,55
-Chow Chow,19,22,45,55
-Clumber Spaniel,19,20,35,65
-Cocker Spaniel,15,16,22,28
-English Cocker Spaniel,15,17,25,35
-Collie,22,26,50,75
-Coton de Tulear,0,0,0,0
-Curly Coated Retriever,25,27,65,80
-Dachshund,7,10,16,32
-Dalmatian,19,23,45,70
-Dandie Dinmont Terrier,18,24,8,11
-Doberman Pinscher,26,28,60,100
-English Foxhound,22,25,65,70
-English Setter,23,27,45,80
-English Springer Spaniel,20,20,45,55
-English Toy Spaniel,10,10,9,15
-Field Spaniel,18,18,35,50
-Finnish Spitz,15,20,31,35
-Flat-Coated Retriever,22,23,60,70
-Smooth Fox Terrier,13,16,15,20
-Wire Fox Terrier,13,16,15,20
-French Bulldog,11,12,17,28
-German Pinscher,16,19,25,35
-German Shepherd Dog,22,26,75,90
-German Shorthaired Pointer,20,27,50,80
-German Wirehaired Pointer,22,26,60,70
-Giant Schnauzer,25,28,70,75
-Glen of Imaal Terrier,14,14,34,36
-Golden Retriever,21,24,55,75
-Gordon Setter,23,27,45,80
-Great Dane,32,32,120,160
-Great Pyrenees,27,32,95,120
-Great Swiss Mountain Dog,23,28,130,150
-Greyhound,27,30,60,70
-Harrier,19,21,40,60
-Ibizan Hound,22,29,42,55
-Irish Setter,25,27,60,70
-Irish Terrier,18,19,25,27
-Irish Water Spaniel,10,23,45,65
-Irish Wolfhound,28,35,90,150
-Italian Greyhound,12,15,6,10
-Japanese Chin,8,11,4,11
-Keeshond,17,19,35,50
-Kerry Blue Terrier,17,21,30,45
-Komondor,26.5,35.5,80,135
-Kuvasz,28,30,70,120
-Labrador Retriever,21,24,55,80
-Lakeland Terrier,13,14,15,17
-Maltese,8,10,4,6
-Manchester Terrier,15,16,17,18
-Manchester Terrier (Toy),10,12,6,8
-Mastiff,27,30,175,190
-Neopolitan Mastiff,24,30,100,150
-Newfoundland,26,28,100,150
-Norwegian Elkhound,19,20,40,60
-Nova Scotia Duck Tolling Retriever,17,21,35,50
-Old English Sheepdog,20,24,60,65
-Otterhound,24,26,65,110
-Papillon,8,11,5,10
-Petit Basset Griffon Vendeen,13,15,30,40
-Pharaoh Hound,21,25,45,55
-Plott,20,24,45,55
-Pointer,21,24,44,66
-Polish Lowland Sheepdog,16,20,30,35
-Pomeranian,12,12,3,7
-Poodle Miniature,10,15,20,20
-Poodle,15,25,45,45
-Poodle Toy,10,10,10,10
-Portuguese Water Dog,20,23,42,60
-Pug,10,11,14,22
-Puli,16,17,29,33
-Redbone Coonhound,21,27,50,70
-Rhodesian Ridgeback,24,27,70,85
-Rottweiler,22,27,90,110
-Saint Bernard,25,28,110,190
-Saluki,23,28,35,70
-Samoyed,19,24,50,65
-Schipperke,10,13,12,18
-Scottish Deerhound,28,32,75,110
-Scottish Terrier,10,12,18,22
-Sealyham Terrier,12,12,18,20
-Shetland Sheepdog,13,16,14,20
-Shiba Inu,13,16,15,30
-Shih Tzu,8,11,9,16
-Siberian Husky,20,23,40,60
-Silky Terrier,9,10,8,11
-Skye Terrier,10,10,25,25
-Soft-Coated Wheaten Terrier,18,20,35,45
-Spinone Italiano,23,28,65,80
-Staffordshire Bull Terrier,14,16,24,28
-Standard Schnauzer,17,19,33,33
-Sussex Spaniel,15,16,40,45
-Tibetan Mastiff,24,26,140,170
-Tibetan Spaniel,10,10,9,15
-Tibetan Terrier,14,17,20,30
-Toy Fox Terrier,10,10,4,7
-Vizsla,48,66,22,25
-Weimaraner,25,27,70,85
-Welsh Springer Spaniel,16,19,35,45
-Welsh Terrier,15,15,20,21
-West Highland White Terrier,11,11,13,15
-Whippet,18,22,27,30
-Wirehaired Pointing Griffon,20,24,45,60
-Yorkshire Terrier,8,8,3,7
+Breed,height_low_inches,height_avg_inches,height_high_inches,weight_low_lbs,weight_avg_lbs,weight_high_lbs
+Affenpinscher,9,10.5,12,8,10,12
+Afghan Hound,25,26,27,50,55,60
+Airedale Terrier,22,23,24,45,45,45
+Akita,26,27,28,80,100,120
+American Eskimo Dog,9,14,19,25,27.5,30
+American Foxhound,22,23.5,25,65,67.5,70
+American Staffordshire Terrier,17,18,19,40,45,50
+American Water Spaniel,15,16.5,18,25,35,45
+Anatolian Shepherd Dog,27,28,29,100,125,150
+Australian Cattle Dog,17,18.5,20,35,40,45
+Australian Shepherd,18,20.5,23,40,50,60
+Australian Terrier,10,10,10,10,12,14
+Basenji,17,17,17,20,21,22
+Basset Hound,14,14,14,40,45,50
+Beagle,13,14.5,16,18,24,30
+Bearded Collie,20,21,22,40,50,60
+Beauceron,24,25.5,27,100,110,120
+Bedlington Terrier,15,15.5,16,18,20.5,23
+Belgian Malinois,22,24,26,60,62.5,65
+Belgian Sheepdog,22,24,26,60,67.5,75
+Belgian Tervuren,22,24,26,60,67.5,75
+Bernese Mountain Dog,23,25,27,85,97.5,110
+Bichon Frise,9.5,10.5,11.5,10,14,18
+Black And Tan Coonhound,23,25,27,50,62.5,75
+Black Russian Terrier,25,27,29,80,110,140
+Bloodhound,24,25,26,80,100,120
+Border Collie,19,20,21,40,40,40
+Border Terrier,12,13.5,15,12,13.5,15
+Borzoi,26,27,28,70,85,100
+Boston Terrier,14,14.5,15,15,20,25
+Bouvier Des Flandres,23,25,27,75,85,95
+Boxer,21,23,25,65,67.5,70
+Briard,23,25,27,74,75,76
+Brittany,17,19,21,30,35,40
+Brussels Griffon,7,7.5,8,6,9,12
+Bulldog,12,14,16,50,55,60
+Bull Terrier,21,21.5,22,50,60,70
+Bullmastiff,25,26,27,100,115,130
+Canaan Dog,19,21.5,24,35,45,55
+Cairn Terrier,9,9.5,10,14,14,14
+Cardigan Welsh Corgi,10,11,12,25,30,35
+Cavalier King Charles Spaniel,10,12.5,15,15,17.5,20
+Chesapeake Bay Retriever,21,23.5,26,55,65,75
+Chihuahua,6,7.5,9,2,3.5,5
+Chinese Crested,11,12,13,5,8.5,12
+Chinese Shar Pei,18,19,20,45,50,55
+Chow Chow,19,20.5,22,45,50,55
+Clumber Spaniel,19,19.5,20,35,50,65
+Cocker Spaniel,15,15.5,16,22,25,28
+English Cocker Spaniel,15,16,17,25,30,35
+Collie,22,24,26,50,62.5,75
+Curly Coated Retriever,25,26,27,65,72.5,80
+Dachshund,7,8.5,10,16,24,32
+Dalmatian,19,21,23,45,57.5,70
+Dandie Dinmont Terrier,18,21,24,8,9.5,11
+Doberman Pinscher,26,27,28,60,80,100
+English Foxhound,22,23.5,25,65,67.5,70
+English Setter,23,25,27,45,62.5,80
+English Springer Spaniel,20,20,20,45,50,55
+English Toy Spaniel,10,10,10,9,12,15
+Field Spaniel,18,18,18,35,42.5,50
+Finnish Spitz,15,17.5,20,31,33,35
+Flat-Coated Retriever,22,22.5,23,60,65,70
+Smooth Fox Terrier,13,14.5,16,15,17.5,20
+Wire Fox Terrier,13,14.5,16,15,17.5,20
+French Bulldog,11,11.5,12,17,22.5,28
+German Pinscher,16,17.5,19,25,30,35
+German Shepherd Dog,22,24,26,75,82.5,90
+German Shorthaired Pointer,20,23.5,27,50,65,80
+German Wirehaired Pointer,22,24,26,60,65,70
+Giant Schnauzer,25,26.5,28,70,72.5,75
+Glen of Imaal Terrier,14,14,14,34,35,36
+Golden Retriever,21,22.5,24,55,65,75
+Gordon Setter,23,25,27,45,62.5,80
+Great Dane,32,32,32,120,140,160
+Great Pyrenees,27,29.5,32,95,107.5,120
+Great Swiss Mountain Dog,23,25.5,28,130,140,150
+Greyhound,27,28.5,30,60,65,70
+Harrier,19,20,21,40,50,60
+Ibizan Hound,22,25.5,29,42,48.5,55
+Irish Setter,25,26,27,60,65,70
+Irish Terrier,18,18.5,19,25,26,27
+Irish Water Spaniel,10,16.5,23,45,55,65
+Irish Wolfhound,28,31.5,35,90,120,150
+Italian Greyhound,12,13.5,15,6,8,10
+Japanese Chin,8,9.5,11,4,7.5,11
+Keeshond,17,18,19,35,42.5,50
+Kerry Blue Terrier,17,19,21,30,37.5,45
+Komondor,26.5,31,35.5,80,107.5,135
+Kuvasz,28,29,30,70,95,120
+Labrador Retriever,21,22.5,24,55,67.5,80
+Lakeland Terrier,13,13.5,14,15,16,17
+Maltese,8,9,10,4,5,6
+Manchester Terrier,15,15.5,16,17,17.5,18
+Manchester Terrier (Toy),10,11,12,6,7,8
+Mastiff,27,28.5,30,175,182.5,190
+Neopolitan Mastiff,24,27,30,100,125,150
+Newfoundland,26,27,28,100,125,150
+Norwegian Elkhound,19,19.5,20,40,50,60
+Nova Scotia Duck Tolling Retriever,17,19,21,35,42.5,50
+Old English Sheepdog,20,22,24,60,62.5,65
+Otterhound,24,25,26,65,87.5,110
+Papillon,8,9.5,11,5,7.5,10
+Petit Basset Griffon Vendeen,13,14,15,30,35,40
+Pharaoh Hound,21,23,25,45,50,55
+Plott,20,22,24,45,50,55
+Pointer,21,22.5,24,44,55,66
+Polish Lowland Sheepdog,16,18,20,30,32.5,35
+Pomeranian,12,12,12,3,5,7
+Poodle Miniature,10,12.5,15,20,20,20
+Poodle,15,20,25,45,45,45
+Poodle Toy,10,10,10,10,10,10
+Portuguese Water Dog,20,21.5,23,42,51,60
+Pug,10,10.5,11,14,18,22
+Puli,16,16.5,17,29,31,33
+Redbone Coonhound,21,24,27,50,60,70
+Rhodesian Ridgeback,24,25.5,27,70,77.5,85
+Rottweiler,22,24.5,27,90,100,110
+Saint Bernard,25,26.5,28,110,150,190
+Saluki,23,25.5,28,35,52.5,70
+Samoyed,19,21.5,24,50,57.5,65
+Schipperke,10,11.5,13,12,15,18
+Scottish Deerhound,28,30,32,75,92.5,110
+Scottish Terrier,10,11,12,18,20,22
+Sealyham Terrier,12,12,12,18,19,20
+Shetland Sheepdog,13,14.5,16,14,17,20
+Shiba Inu,13,14.5,16,15,22.5,30
+Shih Tzu,8,9.5,11,9,12.5,16
+Siberian Husky,20,21.5,23,40,50,60
+Silky Terrier,9,9.5,10,8,9.5,11
+Skye Terrier,10,10,10,25,25,25
+Soft-Coated Wheaten Terrier,18,19,20,35,40,45
+Spinone Italiano,23,25.5,28,65,72.5,80
+Staffordshire Bull Terrier,14,15,16,24,26,28
+Standard Schnauzer,17,18,19,33,33,33
+Sussex Spaniel,15,15.5,16,40,42.5,45
+Tibetan Mastiff,24,25,26,140,155,170
+Tibetan Spaniel,10,10,10,9,12,15
+Tibetan Terrier,14,15.5,17,20,25,30
+Toy Fox Terrier,10,10,10,4,5.5,7
+Vizsla,48,57,66,22,23.5,25
+Weimaraner,25,26,27,70,77.5,85
+Welsh Springer Spaniel,16,17.5,19,35,40,45
+Welsh Terrier,15,15,15,20,20.5,21
+West Highland White Terrier,11,11,11,13,14,15
+Whippet,18,20,22,27,28.5,30
+Wirehaired Pointing Griffon,20,22,24,45,52.5,60
+Yorkshire Terrier,8,8,8,3,5,7
