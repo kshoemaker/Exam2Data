@@ -1,0 +1,173 @@
+Dog breed,category,POPULARITY IN US,"LIFETIME COST, $",1 INTELLIGENCE (TRAINABILITY) ranking,2 LONGEVITY,3 NO. OF GENETIC AILMENTS,"4a average purchase price, US$","4b food costs per year, US$",5b suitability for children ,size category,intelligence category,"4 LIFETIME COST, $",average purchase price (US $),price bracket,lowest (US$),highest (US$),"food per week, $","food per year, $","food per lifetime, $"
+Border Collie,herding,45,"$20,143 ",1,12.52,2,$623 ,$324 ,High,medium,Brightest,"17,404",623,budget,175,1050,5.34,278,"3,486"
+Border Terrier,terrier,80,"$22,638 ",30,14,0,$833 ,$324 ,Low,small,Above average,"19,575",833,mid-price,250,1200,5.34,278,"3,898"
+Brittany,sporting,30,"$22,589 ",19,12.92,0,$618 ,$466 ,Medium,medium,Excellent,"19,503",618,budget,300,1200,7.67,400,"5,171"
+Cairn Terrier,terrier,59,"$21,992 ",35,13.84,2,$435 ,$324 ,Low,small,Above average,"18,965",435,budget,300,600,5.34,278,"3,854"
+Welsh Springer Spaniel,sporting,130,"$20,224 ",31,12.49,1,$750 ,$324 ,Low,medium,Above average,"17,492",750,mid-price,750,750,5.34,278,"3,478"
+English Cocker Spaniel,sporting,63,"$18,993 ",18,11.66,0,$800 ,$324 ,Low,medium,Excellent,"16,442",800,mid-price,600,1000,5.34,278,"3,247"
+Cocker Spaniel,sporting,27,"$24,330 ",20,12.5,2,$465 ,$674 ,Low,small,Excellent,"19,888",465,budget,250,800,9,492,"6,149"
+Papillon,toy,38,"$21,001 ",8,13,5,$740 ,$324 ,Medium,small,Brightest,"18,157",740,mid-price,400,1000,5.34,278,"3,620"
+Australian Cattle Dog,herding,60,"$20,395 ",10,11.67,1,$530 ,$466 ,High,medium,Brightest,"17,607",530,budget,250,1000,7.67,400,"4,671"
+Shetland Sheepdog,herding,20,"$21,006 ",6,12.53,5,$465 ,$405 ,Low,small,Brightest,"17,469",465,budget,150,1000,6,295,"3,698"
+Siberian Husky,working,16,"$22,049 ",45,12.58,0,$650 ,$466 ,Low,medium,Average,"19,043",650,budget,450,1000,7.67,400,"5,035"
+Lhasa Apso,non-sporting,62,"$22,031 ",68,13.92,1,$350 ,$324 ,Low,small,Fair,"18,985",350,budget,175,550,5.34,278,"3,876"
+Affenpinscher,toy,139,"$18,333 ",37,11.42,0,$510 ,$324 ,Medium,small,Above average,"15,835",510,budget,200,800,5.34,278,"3,180"
+Dachshund,hound,9,"$20,113 ",49,12.63,2,$423 ,$324 ,High,small,Average,"17,350",423,budget,125,750,5.34,278,"3,517"
+Miniature Schnauzer,terrier,12,"$20,087 ",12,11.81,2,$715 ,$405 ,Medium,small,Excellent,"16,753",715,mid-price,200,1600,6,295,"3,486"
+Chihuahua,toy,14,"$26,250 ",67,16.5,1,$588 ,$324 ,High,small,Fair,"22,640",588,budget,200,1500,5.34,278,"4,594"
+Australian Terrier,terrier,121,"$17,892 ",34,11.05,0,$640 ,$324 ,Medium,small,Above average,"15,475",640,budget,200,900,5.34,278,"3,077"
+Whippet,hound,57,"$20,976 ",51,12.87,0,$915 ,$324 ,Medium,medium,Average,"18,160",915,mid-price,650,1200,5.34,278,"3,584"
+English Springer Spaniel,sporting,29,"$21,946 ",13,12.54,4,$615 ,$466 ,Low,medium,Excellent,"18,950",615,budget,450,1500,7.67,400,"5,019"
+West Highland White Terrier,terrier,35,"$20,490 ",47,12.8,3,$538 ,$324 ,Low,small,Average,"17,690",538,budget,275,750,5.34,278,"3,564"
+Bedlington Terrier,terrier,134,"$22,107 ",40,13.51,2,"$1,058 ",$324 ,Medium,small,Average,"19,151","1,058",mid-price,250,1800,5.34,278,"3,762"
+Poodle,non-sporting,8,"$21,237 ",2,11.95,2,$900 ,$466 ,Medium,medium,Brightest,"18,382",900,mid-price,500,1500,7.67,400,"4,783"
+Bichon Frise,non-sporting,39,"$19,735 ",45,12.21,0,$693 ,$324 ,Low,small,Average,"17,063",693,budget,250,1500,5.34,278,"3,400"
+German Shorthaired Pointer,sporting,15,"$25,842 ",17,11.46,1,$545 ,$971 ,Low,large,Excellent,"20,849",545,budget,200,850,14,708,"8,117"
+Pointer,sporting,115,"$24,445 ",43,12.42,1,$294 ,$710 ,Low,large,Average,"21,049",294,budget,50,500,11.67,609,"7,565"
+Tibetan Spaniel,non-sporting,114,"$25,549 ",46,14.42,0,"$1,050 ",$466 ,Low,small,Average,"22,104","1,050",mid-price,500,2000,7.67,400,"5,772"
+Labrador Retriever,sporting,1,"$21,299 ",7,12.04,3,$810 ,$466 ,Low,medium,Brightest,"18,422",810,mid-price,299,1500,7.67,400,"4,819"
+Maltese,toy,23,"$19,084 ",59,12.25,1,$650 ,$270 ,High,small,Fair,"16,073",650,budget,300,1000,4,197,"2,410"
+Pomeranian,toy,17,"$15,792 ",23,9.67,1,$670 ,$324 ,Medium,small,Excellent,"13,677",670,budget,200,1500,5.34,278,"2,693"
+Shih Tzu,toy,11,"$21,152 ",70,13.2,1,$583 ,$324 ,Low,small,Lowest,"18,264",583,budget,275,1200,5.34,278,"3,675"
+Australian Shepherd,herding,24,"$21,458 ",42,12.28,2,$565 ,$466 ,Medium,medium,Average,"18,524",565,budget,250,1000,7.67,400,"4,915"
+Yorkshire Terrier,toy,5,"$20,701 ",27,12.6,4,"$1,057 ",$324 ,High,small,Above average,"17,944","1,057",mid-price,275,2800,5.34,278,"3,508"
+Irish Setter,sporting,70,"$20,323 ",35,11.63,2,$525 ,$466 ,Low,large,Above average,"17,544",525,budget,300,1000,7.67,400,"4,655"
+Pharaoh Hound,hound,151,"$21,047 ",37,11.83,0,$913 ,$466 ,Medium,medium,Above average,"18,221",913,mid-price,475,1000,7.67,400,"4,735"
+Brussels Griffon,toy,77,"$19,551 ",59,12,0,$833 ,$324 ,High,small,Fair,"16,925",833,mid-price,500,1500,5.34,278,"3,341"
+Golden Retriever,sporting,4,"$21,447 ",4,12.04,4,$958 ,$466 ,Low,medium,Brightest,"18,571",958,mid-price,325,2500,7.67,400,"4,819"
+Samoyed,working,69,"$25,352 ",33,12.44,1,"$1,162 ",$710 ,Low,medium,Above average,"21,951","1,162",mid-price,795,1400,11.67,609,"7,577"
+Beagle,hound,3,"$19,468 ",73,12.3,1,$288 ,$324 ,Low,small,Lowest,"16,777",288,budget,100,600,5.34,278,"3,425"
+Chesapeake Bay Retriever,sporting,46,"$16,697 ",27,9.48,1,$522 ,$466 ,Low,large,Above average,"14,432",522,budget,175,795,7.67,400,"3,794"
+Tibetan Terrier,non-sporting,86,"$20,336 ",62,12.31,0,"$1,140 ",$324 ,Medium,small,Fair,"17,643","1,140",mid-price,450,1600,5.34,278,"3,428"
+Gordon Setter,sporting,94,"$19,605 ",34,11.1,1,$700 ,$466 ,Low,large,Above average,"16,953",700,mid-price,500,100,7.67,400,"4,443"
+English Setter,sporting,87,"$20,312 ",37,11.57,2,$615 ,$466 ,Low,large,Above average,"17,548",615,budget,250,1000,7.67,400,"4,631"
+Pug,toy,26,"$18,527 ",57,11,1,$469 ,$405 ,Low,medium,Fair,"15,421",469,budget,250,699,6,295,"3,246"
+Briard,herding,125,"$19,673 ",30,11.17,1,$650 ,$466 ,Low,large,Above average,"17,004",650,budget,500,800,7.67,400,"4,471"
+Norfolk Terrier,terrier,120,"$24,308 ",56,13.07,0,"$2,083 ",$466 ,Medium,small,Fair,"21,185","2,083",high-end,250,2500,7.67,400,"5,231"
+Flat-Coated Retriever,sporting,90,"$16,000 ",18,9.02,0,$600 ,$466 ,Low,medium,Excellent,"13,845",600,budget,300,1200,7.67,400,"3,610"
+Boston Terrier,non-sporting,22,"$17,741 ",54,10.92,1,$690 ,$324 ,Low,medium,Average,"15,352",690,budget,400,1050,5.34,278,"3,041"
+Doberman Pinscher,working,13,"$18,397 ",5,10.33,4,$790 ,$466 ,Medium,large,Brightest,"15,929",790,mid-price,300,1200,7.67,400,"4,135"
+English Toy Spaniel,toy,129,"$17,521 ",45,10.1,0,$925 ,$405 ,Medium,small,Average,"14,670",925,mid-price,150,1500,6,295,"2,981"
+Belgian Tervuren,herding,108,"$19,132 ",14,10.6,2,"$1,070 ",$466 ,Low,large,Excellent,"16,600","1,070",mid-price,850,1200,7.67,400,"4,243"
+Cavalier King Charles Spaniel,toy,21,"$18,639 ",44,11.29,2,"$1,017 ",$324 ,Low,small,Average,"16,169","1,017",mid-price,100,1800,5.34,278,"3,144"
+Dalmatian,non-sporting,73,"$19,886 ",39,11.27,2,$695 ,$466 ,Low,medium,Above average,"17,194",695,budget,350,1000,7.67,400,"4,511"
+Basset Hound,hound,41,"$18,328 ",71,11.43,2,$490 ,$324 ,Low,small,Lowest,"15,827",490,budget,150,1000,5.34,278,"3,183"
+Basenji,hound,93,"$22,096 ",79,13.58,3,$940 ,$324 ,Medium,medium,Lowest,"19,125",940,mid-price,600,1200,5.34,278,"3,781"
+Italian Greyhound,toy,65,"$16,463 ",60,10.02,0,$800 ,$324 ,High,small,Fair,"14,270",800,mid-price,500,120,5.34,278,"2,790"
+Staffordshire Bull Terrier,terrier,76,"$21,650 ",49,12.05,1,"$1,145 ",$466 ,Low,medium,Average,"18,772","1,145",mid-price,500,1500,7.67,400,"4,823"
+Bouvier des Flandres,herding,83,"$18,959 ",29,10.34,1,"$1,335 ",$466 ,Low,large,Above average,"16,489","1,335",mid-price,800,2500,7.67,400,"4,139"
+Pembroke Welsh Corgi,herding,25,"$23,978 ",11,12.25,9,$587 ,$674 ,Low,small,Excellent,"19,625",587,budget,375,750,9,492,"6,026"
+Clumber Spaniel,sporting,133,"$18,084 ",37,10,0,"$1,033 ",$466 ,Low,medium,Above average,"15,695","1,033",mid-price,800,1500,7.67,400,"4,003"
+Dandie Dinmont Terrier,terrier,160,"$21,633 ",62,12.17,0,$925 ,$466 ,Low,small,Fair,"18,725",925,mid-price,850,1000,7.67,400,"4,871"
+Saluki,hound,117,"$24,866 ",43,12,0,"$1,525 ",$710 ,Low,medium,Average,"21,585","1,525",high-end,1000,1800,11.67,609,"7,309"
+Giant Schnauzer,working,95,"$26,686 ",28,10,1,$810 ,"$1,349 ",Medium,large,Above average,"21,307",810,mid-price,400,1500,19,984,"9,838"
+Greyhound,hound,140,"$15,819 ",46,9.36,1,"$1,175 ",$324 ,Low,large,Average,"13,771","1,175",mid-price,200,2500,5.34,278,"2,606"
+Scottish Terrier,terrier,54,"$17,525 ",65,10.69,1,$829 ,$324 ,Medium,small,Fair,"15,187",829,mid-price,400,2200,5.34,278,"2,977"
+Rottweiler,working,10,"$18,886 ",9,9.11,3,"$1,118 ",$710 ,Medium,large,Brightest,"16,395","1,118",mid-price,300,1800,11.67,609,"5,549"
+Kerry Blue Terrier,terrier,124,"$17,240 ",35,9.4,1,"$1,200 ",$466 ,Medium,medium,Above average,"14,994","1,200",mid-price,900,1500,7.67,400,"3,762"
+Afghan Hound,hound,88,"$24,077 ",80,11.92,0,$890 ,$710 ,Low,large,Lowest,"20,818",890,mid-price,450,1000,11.67,609,"7,260"
+Newfoundland,working,43,"$19,351 ",34,9.32,2,"$1,178 ",$710 ,Low,large,Above average,"16,802","1,178",mid-price,500,2000,11.67,609,"5,677"
+German Shepherd,herding,2,"$17,416 ",3,9.73,8,$820 ,$466 ,Medium,large,Brightest,"15,091",820,mid-price,400,1495,7.67,400,"3,895"
+Pekingese,toy,64,"$20,565 ",74,11.56,1,$885 ,$466 ,Medium,small,Lowest,"17,803",885,mid-price,200,3800,7.67,400,"4,627"
+Old English Sheepdog,herding,84,"$22,611 ",63,11.19,1,$832 ,$710 ,Low,medium,Fair,"19,551",832,mid-price,500,1000,11.67,609,"6,816"
+Akita,working,47,"$20,994 ",54,10.16,1,"$1,202 ",$710 ,High,large,Average,"18,217","1,202",mid-price,565,1800,11.67,609,"6,188"
+Rhodesian Ridgeback,hound,44,"$16,530 ",52,9.1,2,$995 ,$466 ,Medium,large,Average,"14,355",995,mid-price,750,1300,7.67,400,"3,642"
+French Bulldog,non-sporting,18,"$17,266 ",58,9,0,"$1,900 ",$466 ,Low,medium,Fair,"15,116","1,900",high-end,1300,3500,7.67,400,"3,602"
+Borzoi,hound,102,"$16,176 ",76,9.08,0,$675 ,$466 ,Medium,large,Lowest,"14,007",675,budget,300,1250,7.67,400,"3,634"
+Bernese Mountain Dog,working,34,"$16,099 ",22,7.56,4,"$1,320 ",$710 ,Low,large,Excellent,"14,032","1,320",mid-price,750,2500,11.67,609,"4,605"
+Bull Terrier,terrier,51,"$18,490 ",66,10.21,2,"$1,085 ",$466 ,Medium,medium,Fair,"16,051","1,085",mid-price,300,1750,7.67,400,"4,087"
+Boxer,working,7,"$15,746 ",48,8.81,4,$700 ,$466 ,Low,medium,Average,"13,641",700,mid-price,300,2500,7.67,400,"3,526"
+Alaskan Malamute,working,58,"$21,986 ",50,10.67,2,"$1,210 ",$710 ,Medium,large,Average,"19,069","1,210",mid-price,550,2350,11.67,609,"6,499"
+Chow Chow,non-sporting,68,"$15,898 ",77,9.01,2,$515 ,$466 ,Medium,medium,Lowest,"13,745",515,budget,200,750,7.67,400,"3,606"
+Bloodhound,hound,48,"$13,824 ",75,6.75,2,$608 ,$710 ,Medium,large,Lowest,"11,979",608,budget,200,1000,11.67,609,"4,111"
+Irish Wolfhound,hound,79,"$18,435 ",41,6.94,3,"$1,333 ","$1,217 ",Low,large,Average,"16,039","1,333",mid-price,800,1550,20.01,"1,044","7,246"
+Bullmastiff,working,40,"$13,936 ",69,7.57,2,$980 ,$466 ,Low,large,Fair,"12,128",980,mid-price,600,1600,7.67,400,"3,030"
+Mastiff,working,28,"$13,581 ",72,6.5,2,$900 ,$701 ,Low,large,Lowest,"11,224",900,mid-price,150,1200,10,512,"3,325"
+Great Dane,working,19,"$14,662 ",48,6.96,4,"$1,040 ",$710 ,Low,large,Average,"12,759","1,040",mid-price,500,2500,11.67,609,"4,239"
+Saint Bernard,working,49,"$20,022 ",65,7.78,3,$875 ,"$1,217 ",Low,large,Fair,"17,336",875,mid-price,450,1500,20.01,"1,044","8,124"
+Bulldog,non-sporting,6,"$13,479 ",78,6.29,5,"$2,680 ",$466 ,Medium,medium,Lowest,"11,977","2,680",high-end,1500,5500,7.67,400,"2,518"
+Airedale Terrier,terrier,55,no data,29,11.45,1,$733 ,,Low,medium,Above average,no data,733,mid-price,475,1200,no data,,no data
+American English Coonhound,hound,33,no data,no data,11.5,no data,$283 ,,Low,large,no data,no data,283,budget,100,350,no data,,no data
+American Eskimo Dog,non-sporting,116,no data,no data,no data,0,$560 ,,Low,small,no data,no data,560,budget,300,950,no data,,no data
+American Foxhound,hound,173,no data,46,no data,no data,$757 ,,Low,medium,Average,no data,757,mid-price,250,1000,no data,,no data
+American Staffordshire Terrier,terrier,72,no data,34,no data,1,"$1,043 ",,Low,medium,Above average,no data,"1,043",mid-price,250,1500,no data,,no data
+American Water Spaniel,sporting,157,no data,44,no data,0,$730 ,,Low,medium,Average,no data,730,mid-price,600,1250,no data,,no data
+Anatolian Shepherd Dog,working,111,no data,no data,10.75,no data,no data,,Medium,large,no data,no data,no data,no data,no data,no data,11.67,,"6,548"
+Bearded Collie,herding,112,no data,34,12.77,0,no data,,Low,medium,Above average,no data,no data,no data,no data,no data,7.67,,"5,111"
+Beauceron,herding,144,no data,no data,no data,no data,$967 ,,Low,large,no data,no data,967,mid-price,950,"1,000",no data,,no data
+Belgian Malinois,herding,74,no data,22,no data,0,"$1,080 ",,Low,large,Excellent,no data,"1,080",mid-price,550,2000,7.67,,no data
+Belgian Sheepdog,herding,118,no data,15,no data,4,no data,,Low,large,Excellent,no data,no data,no data,no data,no data,no data,,no data
+Black and Tan Coonhound,hound,109,no data,44,no data,0,$325 ,,Low,large,Average,no data,325,budget,200,500,no data,,no data
+Black Russian Terrier,working,128,no data,no data,1.83 - really?,0,"$2,833 ",,Low,large,no data,no data,"2,833",high-end,2500,3000,no data,,no data
+Bluetick Coonhound,hound,136,no data,no data,no data,0,$370 ,,Low,large,no data,no data,370,budget,200,500,no data,,no data
+Boykin Spaniel,sporting,138,no data,no data,no data,no data,$531 ,,Low,medium,no data,no data,531,budget,200,800,no data,,no data
+Canaan Dog,herding,168,no data,no data,14.67,0,no data,,Low,medium,no data,no data,no data,no data,no data,no data,7.67,,"5,872"
+Cane Corso,working,67,no data,no data,no data,no data,"$1,070 ",,Low,large,no data,no data,"1,070",mid-price,900,1500,no data,,no data
+Cardigan Welsh Corgi,herding,81,no data,26,12.7,0,$828 ,,Low,small,Excellent,no data,828,mid-price,395,1085,no data,,no data
+Cesky Terrier,terrier,106,no data,no data,8.42,no data,no data,,Low,small,no data,no data,no data,no data,no data,no data,7.67,,"3,370"
+Chinese Crested,toy,61,no data,61,10.08,no data,$538 ,,Low,small,Fair,no data,538,budget,125,1300,no data,,no data
+Chinese Shar Pei,non-sporting,50,no data,51,no data,4,$840 ,,Low,medium,Average,no data,840,mid-price,350,2000,no data,,no data
+Collie,herding,36,no data,16,no data,2,$650 ,,Low,large,Excellent,no data,650,budget,350,950,no data,,no data
+Curly Coated Retriever,sporting,154,no data,41,10.75,0,no data,,Medium,large,Average,no data,no data,no data,no data,no data,11.67,,"6,548"
+English Foxhound,hound,171,no data,46,no data,0,no data,,Low,large,Average,no data,no data,no data,no data,no data,no data,,no data
+Entlebucher Mountain Dog,herding,146,no data,no data,no data,no data,"$1,167 ",,Low,medium,no data,no data,"1,167",mid-price,"1,000","1,300",no data,,no data
+Field Spaniel,sporting,141,no data,34,9.9,0,no data,,Medium,medium,Above average,no data,no data,no data,no data,no data,7.67,,"3,963"
+Finnish Lapphund,herding,104,no data,no data,7.33,no data,no data,,Low,medium,no data,no data,no data,no data,no data,no data,7.67,,"2,934"
+Finnish Spitz,non-sporting,167,no data,43,11.17,0,no data,,Low,medium,Average,no data,no data,no data,no data,no data,7.67,,"4,471"
+German Pinscher,working,137,no data,no data,11.42,no data,"$1,500 ",,Low,medium,no data,no data,"1,500",high-end,1500,1500,no data,,no data
+German Wirehaired Pointer,sporting,75,no data,44,10,1,$655 ,,Low,large,Average,no data,655,budget,600,800,no data,,no data
+Glen of Imaal Terrier,terrier,158,no data,no data,10.42,no data,no data,,Low,small,no data,no data,no data,no data,no data,no data,no data,,no data
+Great Pyrenees,working,71,no data,64,10,1,$503 ,,Low,large,Fair,no data,503,budget,225,800,no data,,no data
+Greater Swiss Mountain Dog,working,82,no data,no data,6.8,1,"$1,605 ",,Low,large,no data,no data,"1,605",high-end,900,2500,no data,,no data
+Harrier,hound,172,no data,no data,no data,0,no data,,Low,medium,no data,no data,no data,no data,no data,no data,no data,,no data
+Havanese,toy,31,no data,no data,10.25,0,$830 ,,Low,small,no data,no data,830,mid-price,300,1500,no data,,no data
+Ibizan Hound,hound,149,no data,53,no data,0,"$1,500 ",,Low,large,Average,no data,"1,500",high-end,1500,1500,7.67,,no data
+Icelandic Sheepdog,herding,143,no data,no data,no data,no data,no data,,Low,medium,no data,no data,no data,no data,no data,no data,no data,,no data
+Irish Red and White Setter,sporting,147,no data,no data,11.57,no data,"$1,000 ",,Low,large,no data,no data,"1,000",mid-price,"1,000","1,000",no data,,no data
+Irish Terrier,terrier,132,no data,53,no data,0,$588 ,,Low,medium,Average,no data,588,budget,400,850,7.67,,no data
+Irish Water Spaniel,sporting,150,no data,24,9.33,1,no data,,Low,medium,Excellent,no data,no data,no data,no data,no data,11.67,,"5,683"
+Japanese Chin,toy,78,no data,62,9.25,0,$513 ,,Low,small,Fair,no data,513,budget,200,800,no data,,no data
+Keeshond,non-sporting,98,no data,16,12.17,1,$610 ,,Low,medium,Excellent,no data,610,budget,350,1000,no data,,no data
+Komondor,working,166,no data,no data,9.17,1,$656 ,,Low,large,no data,no data,656,budget,500,850,no data,,no data
+Kuvasz,working,148,no data,42,no data,1,no data,,Low,large,Average,no data,no data,no data,no data,no data,no data,,no data
+Lakeland Terrier,terrier,135,no data,62,no data,0,"$1,093 ",,Low,small,Fair,no data,"1,093",mid-price,575,1600,7.67,,no data
+Leonberger,working,103,"$15,141 ",no data,6.98,no data,"$1,480 ",,Low,large,no data,"13,232","1,480",mid-price,700,1800,11.67,,"4,251"
+Löwchen,non-sporting,152,no data,no data,10,0,no data,,,small,no data,no data,no data,no data,no data,no data,no data,,no data
+Manchester Terrier,terrier,119,no data,32,9.32,0,$720 ,,,small,Above average,no data,720,mid-price,140,1500,no data,,no data
+Miniature Bull Terrier,terrier,127,no data,no data,6.6,0,"$1,740 ",,,small,no data,no data,"1,740",high-end,999,2800,no data,,no data
+Miniature Pinscher,toy,42,no data,37,no data,0,$535 ,,,small,Above average,no data,535,budget,300,900,no data,,no data
+Neapolitan Mastiff,working,110,no data,no data,no data,1,"$1,760 ",,,large,no data,no data,"1,760",high-end,850,3500,20.01,,no data
+Norwegian Buhund,herding,165,no data,no data,12.67,no data,no data,,,medium,no data,no data,no data,no data,no data,no data,no data,,no data
+Norwegian Elkhound,hound,96,no data,36,no data,1,$448 ,,,medium,Above average,no data,448,budget,350,500,no data,,no data
+Norwegian Lundehund,non-sporting,170,no data,no data,no data,no data,no data,,,small,no data,no data,no data,no data,no data,no data,no data,,no data
+Norwich Terrier,terrier,89,no data,38,no data,0,"$1,245 ",,,small,Above average,no data,"1,245",mid-price,750,2000,7.67,,no data
+Nova Scotia Duck Tolling Retriever,sporting,107,"$12,653 ",no data,6.5,1,"$1,500 ",,,medium,no data,"11,100","1,500",high-end,1500,1500,7.67,,"2,602"
+Otterhound,hound,169,no data,46,10.8,1,no data,,,large,Average,no data,no data,no data,no data,no data,7.67,,"4,323"
+Parson Russell Terrier,terrier,97,no data,no data,no data,0,$528 ,,,small,no data,no data,528,budget,150,850,7.67,,no data
+Petit Basset Griffon Vendeen,hound,131,no data,62,12.7,0,$400 ,,,small,Fair,no data,400,budget,250,700,no data,,no data
+Plott,hound,145,no data,no data,no data,0,no data,,,medium,no data,no data,no data,no data,no data,no data,no data,,no data
+Polish Lowland Sheepdog,herding,159,no data,no data,10.8,no data,no data,,,medium,no data,no data,no data,no data,no data,no data,7.67,,"4,323"
+Portuguese Water Dog,working,56,no data,no data,11.42,0,no data,,,medium,no data,no data,no data,no data,no data,no data,no data,,no data
+Puli,herding,156,no data,27,no data,0,$913 ,,,medium,Above average,no data,913,mid-price,700,1000,no data,,no data
+Pyrenean Shepherd,herding,162,no data,no data,no data,no data,no data,,,medium,no data,no data,no data,no data,no data,no data,no data,,no data
+Redbone Coonhound,hound,126,no data,no data,no data,0,$425 ,,,large,no data,no data,425,budget,300,700,no data,,no data
+Schipperke,non-sporting,105,no data,15,13,4,$658 ,,,small,Excellent,no data,658,budget,300,975,no data,,no data
+Scottish Deerhound,hound,142,no data,47,8.7,2,no data,,,large,Average,no data,no data,no data,no data,no data,no data,,no data
+Sealyham Terrier,terrier,163,no data,56,12.25,1,no data,,,small,Fair,no data,no data,no data,no data,no data,no data,,no data
+Shiba Inu,non-sporting,53,no data,no data,7,1,$890 ,,,small,no data,no data,890,mid-price,650,1400,no data,,no data
+Silky Terrier,toy,85,no data,37,14.25,0,$448 ,,,small,Above average,no data,448,budget,250,500,no data,,no data
+Skye Terrier,terrier,164,no data,55,11,0,$550 ,,,small,Fair,no data,550,budget,500,600,no data,,no data
+Smooth Fox Terrier,terrier,113,no data,40,13.17,0,$575 ,,,small,Average,no data,575,budget,450,750,no data,,no data
+Soft-Coated Wheaten Terrier,terrier,52,no data,40,12.16,0,$832 ,,,medium,Average,no data,832,mid-price,675,1000,no data,,no data
+Spinone Italiano,sporting,123,no data,no data,9,no data,"$1,725 ",,,large,no data,no data,"1,725",high-end,1100,2000,no data,,no data
+Standard Schnauzer,working,91,no data,18,no data,1,$855 ,,,medium,Excellent,no data,855,mid-price,50,1500,no data,,no data
+Sussex Spaniel,sporting,161,no data,no data,11.17,0,no data,,,small,no data,no data,no data,no data,no data,no data,7.67,,"4,471"
+Swedish Vallhund,herding,153,"$22,839 ",no data,14.17,no data,$772 ,,,small,no data,"19,739",772,mid-price,550,1000,5.34,,"3,946"
+Tibetan Mastiff,working,122,"$23,747 ",no data,11.92,no data,"$3,460 ",,,large,no data,"20,899","3,460",high-end,800,6500,7.67,,"4,771"
+Toy Fox Terrier,toy,101,no data,no data,no data,no data,$460 ,,,small,no data,no data,460,budget,200,650,no data,,no data
+Vizsla,sporting,37,no data,25,12.5,0,$935 ,,,medium,Excellent,no data,935,mid-price,800,1200,no data,,no data
+Weimaraner,sporting,32,no data,21,no data,1,$562 ,,,large,Excellent,no data,562,budget,300,900,7.67,,no data
+Welsh Terrier,terrier,99,no data,53,no data,0,$843 ,,,small,Average,no data,843,mid-price,575,1250,5.34,,no data
+Wire Fox Terrier,terrier,100,no data,51,13.17,0,$668 ,,,small,Average,no data,668,budget,175,1600,no data,,no data
+Wirehaired Pointing Griffon,sporting,92,no data,46,8.8,0,$755 ,,,medium,Average,no data,755,mid-price,750,800,no data,,no data
+Xoloitzcuintli,non-sporting,155,no data,no data,no data,no data,$717 ,,,medium,no data,no data,717,mid-price,300,"2,000",no data,,no data
