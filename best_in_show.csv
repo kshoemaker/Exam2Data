@@ -1,137 +1,137 @@
 Dog_breed,category,Popularity,INTELLIGENCE_ranking,Average_Lifetime,Suitability_for_Children,size_category,intelligence_category,Average_Price,price_bracket,Food_cost_per_year
-Labrador Retriever,sporting,1,7,12.04,Low,medium,Brightest,810,mid-price,400
-German Shepherd,herding,2,3,9.73,Medium,large,Brightest,820,mid-price,400
-Beagle,hound,3,73,12.3,Low,small,Lowest,288,budget,278
-Golden Retriever,sporting,4,4,12.04,Low,medium,Brightest,958,mid-price,400
-Yorkshire Terrier,toy,5,27,12.6,High,small,Above average,1057,mid-price,278
-Bulldog,non-sporting,6,78,6.29,Medium,medium,Lowest,2680,high-end,400
-Boxer,working,7,48,8.81,Low,medium,Average,700,mid-price,400
-Poodle,non-sporting,8,2,11.95,Medium,medium,Brightest,900,mid-price,400
-Dachshund,hound,9,49,12.63,High,small,Average,423,budget,278
-Rottweiler,working,10,9,9.11,Medium,large,Brightest,1118,mid-price,609
-Shih Tzu,toy,11,70,13.2,Low,small,Lowest,583,budget,278
-Miniature Schnauzer,terrier,12,12,11.81,Medium,small,Excellent,715,mid-price,295
-Doberman Pinscher,working,13,5,10.33,Medium,large,Brightest,790,mid-price,400
-Chihuahua,toy,14,67,16.5,High,small,Fair,588,budget,278
-German Shorthaired Pointer,sporting,15,17,11.46,Low,large,Excellent,545,budget,708
-Siberian Husky,working,16,45,12.58,Low,medium,Average,650,budget,400
-Pomeranian,toy,17,23,9.67,Medium,small,Excellent,670,budget,278
-French Bulldog,non-sporting,18,58,9,Low,medium,Fair,1900,high-end,400
-Great Dane,working,19,48,6.96,Low,large,Average,1040,mid-price,609
-Shetland Sheepdog,herding,20,6,12.53,Low,small,Brightest,465,budget,295
-Cavalier King Charles Spaniel,toy,21,44,11.29,Low,small,Average,1017,mid-price,278
-Boston Terrier,non-sporting,22,54,10.92,Low,medium,Average,690,budget,278
-Maltese,toy,23,59,12.25,High,small,Fair,650,budget,197
-Australian Shepherd,herding,24,42,12.28,Medium,medium,Average,565,budget,400
-Pembroke Welsh Corgi,herding,25,11,12.25,Low,small,Excellent,587,budget,492
-Pug,toy,26,57,11,Low,medium,Fair,469,budget,295
-Cocker Spaniel,sporting,27,20,12.5,Low,small,Excellent,465,budget,492
-Mastiff,working,28,72,6.5,Low,large,Lowest,900,mid-price,512
-English Springer Spaniel,sporting,29,13,12.54,Low,medium,Excellent,615,budget,400
-Brittany,sporting,30,19,12.92,Medium,medium,Excellent,618,budget,400
-Havanese,toy,31,no data,10.25,Low,small,Unknown,830,mid-price,
-American English Coonhound,hound,33,no data,11.5,Low,large,Unknown,283,budget,
-Bernese Mountain Dog,working,34,22,7.56,Low,large,Excellent,1320,mid-price,609
-West Highland White Terrier,terrier,35,47,12.8,Low,small,Average,538,budget,278
-Vizsla,sporting,37,25,12.5,Unknown,medium,Excellent,935,mid-price,
-Papillon,toy,38,8,13,Medium,small,Brightest,740,mid-price,278
-Bichon Frise,non-sporting,39,45,12.21,Low,small,Average,693,budget,278
-Bullmastiff,working,40,69,7.57,Low,large,Fair,980,mid-price,400
-Basset Hound,hound,41,71,11.43,Low,small,Lowest,490,budget,278
-Newfoundland,working,43,34,9.32,Low,large,Above average,1178,mid-price,609
-Rhodesian Ridgeback,hound,44,52,9.1,Medium,large,Average,995,mid-price,400
-Border Collie,herding,45,1,12.52,High,medium,Brightest,623,budget,278
-Chesapeake Bay Retriever,sporting,46,27,9.48,Low,large,Above average,522,budget,400
-Akita,working,47,54,10.16,High,large,Average,1202,mid-price,609
-Bloodhound,hound,48,75,6.75,Medium,large,Lowest,608,budget,609
-Saint Bernard,working,49,65,7.78,Low,large,Fair,875,mid-price,"1,044"
-Bull Terrier,terrier,51,66,10.21,Medium,medium,Fair,1085,mid-price,400
-Soft-Coated Wheaten Terrier,terrier,52,40,12.16,Unknown,medium,Average,832,mid-price,
-Shiba Inu,non-sporting,53,no data,7,Unknown,small,Unknown,890,mid-price,
-Scottish Terrier,terrier,54,65,10.69,Medium,small,Fair,829,mid-price,278
-Airedale Terrier,terrier,55,29,11.45,Low,medium,Above average,733,mid-price,
 Portuguese Water Dog,working,56,no data,11.42,Unknown,medium,Unknown,no data,Unknown,
-Whippet,hound,57,51,12.87,Medium,medium,Average,915,mid-price,278
-Alaskan Malamute,working,58,50,10.67,Medium,large,Average,1210,mid-price,609
-Cairn Terrier,terrier,59,35,13.84,Low,small,Above average,435,budget,278
-Australian Cattle Dog,herding,60,10,11.67,High,medium,Brightest,530,budget,400
-Chinese Crested,toy,61,61,10.08,Low,small,Fair,538,budget,
-Lhasa Apso,non-sporting,62,68,13.92,Low,small,Fair,350,budget,278
-English Cocker Spaniel,sporting,63,18,11.66,Low,medium,Excellent,800,mid-price,278
-Pekingese,toy,64,74,11.56,Medium,small,Lowest,885,mid-price,400
-Italian Greyhound,toy,65,60,10.02,High,small,Fair,800,mid-price,278
-Chow Chow,non-sporting,68,77,9.01,Medium,medium,Lowest,515,budget,400
-Samoyed,working,69,33,12.44,Low,medium,Above average,1162,mid-price,609
-Irish Setter,sporting,70,35,11.63,Low,large,Above average,525,budget,400
-Great Pyrenees,working,71,64,10,Low,large,Fair,503,budget,
-Dalmatian,non-sporting,73,39,11.27,Low,medium,Above average,695,budget,400
-German Wirehaired Pointer,sporting,75,44,10,Low,large,Average,655,budget,
-Staffordshire Bull Terrier,terrier,76,49,12.05,Low,medium,Average,1145,mid-price,400
-Brussels Griffon,toy,77,59,12,High,small,Fair,833,mid-price,278
-Japanese Chin,toy,78,62,9.25,Low,small,Fair,513,budget,
-Irish Wolfhound,hound,79,41,6.94,Low,large,Average,1333,mid-price,"1,044"
-Border Terrier,terrier,80,30,14,Low,small,Above average,833,mid-price,278
-Cardigan Welsh Corgi,herding,81,26,12.7,Low,small,Excellent,828,mid-price,
-Greater Swiss Mountain Dog,working,82,no data,6.8,Low,large,Unknown,1605,high-end,
-Bouvier des Flandres,herding,83,29,10.34,Low,large,Above average,1335,mid-price,400
-Old English Sheepdog,herding,84,63,11.19,Low,medium,Fair,832,mid-price,609
-Silky Terrier,toy,85,37,14.25,Unknown,small,Above average,448,budget,
-Tibetan Terrier,non-sporting,86,62,12.31,Medium,small,Fair,1140,mid-price,278
-English Setter,sporting,87,37,11.57,Low,large,Above average,615,budget,400
-Afghan Hound,hound,88,80,11.92,Low,large,Lowest,890,mid-price,609
-Flat-Coated Retriever,sporting,90,18,9.02,Low,medium,Excellent,600,budget,400
-Wirehaired Pointing Griffon,sporting,92,46,8.8,Unknown,medium,Average,755,mid-price,
-Basenji,hound,93,79,13.58,Medium,medium,Lowest,940,mid-price,278
-Gordon Setter,sporting,94,34,11.1,Low,large,Above average,700,mid-price,400
-Giant Schnauzer,working,95,28,10,Medium,large,Above average,810,mid-price,984
-Keeshond,non-sporting,98,16,12.17,Low,medium,Excellent,610,budget,
-Wire Fox Terrier,terrier,100,51,13.17,Unknown,small,Average,668,budget,
-Borzoi,hound,102,76,9.08,Medium,large,Lowest,675,budget,400
-Leonberger,working,103,no data,6.98,Low,large,Unknown,1480,mid-price,
 Finnish Lapphund,herding,104,no data,7.33,Low,medium,Unknown,no data,Unknown,
-Schipperke,non-sporting,105,15,13,Unknown,small,Excellent,658,budget,
 Cesky Terrier,terrier,106,no data,8.42,Low,small,Unknown,no data,Unknown,
-Nova Scotia Duck Tolling Retriever,sporting,107,no data,6.5,Unknown,medium,Unknown,1500,high-end,
-Belgian Tervuren,herding,108,14,10.6,Low,large,Excellent,1070,mid-price,400
 Anatolian Shepherd Dog,working,111,no data,10.75,Medium,large,Unknown,no data,Unknown,
 Bearded Collie,herding,112,34,12.77,Low,medium,Above average,no data,Unknown,
-Smooth Fox Terrier,terrier,113,40,13.17,Unknown,small,Average,575,budget,
-Tibetan Spaniel,non-sporting,114,46,14.42,Low,small,Average,1050,mid-price,400
-Pointer,sporting,115,43,12.42,Low,large,Average,294,budget,609
-Saluki,hound,117,43,12,Low,medium,Average,1525,high-end,609
-Manchester Terrier,terrier,119,32,9.32,Unknown,small,Above average,720,mid-price,
-Norfolk Terrier,terrier,120,56,13.07,Medium,small,Fair,2083,high-end,400
-Australian Terrier,terrier,121,34,11.05,Medium,small,Above average,640,budget,278
-Tibetan Mastiff,working,122,no data,11.92,Unknown,large,Unknown,3460,high-end,
-Spinone Italiano,sporting,123,no data,9,Unknown,large,Unknown,1725,high-end,
-Kerry Blue Terrier,terrier,124,35,9.4,Medium,medium,Above average,1200,mid-price,400
-Briard,herding,125,30,11.17,Low,large,Above average,650,budget,400
-Miniature Bull Terrier,terrier,127,no data,6.6,Unknown,small,Unknown,1740,high-end,
-Black Russian Terrier,working,128,no data,1.83,Low,large,Unknown,2833,high-end,
-English Toy Spaniel,toy,129,45,10.1,Medium,small,Average,925,mid-price,295
-Welsh Springer Spaniel,sporting,130,31,12.49,Low,medium,Above average,750,mid-price,278
-Petit Basset Griffon Vendeen,hound,131,62,12.7,Unknown,small,Fair,400,budget,
-Clumber Spaniel,sporting,133,37,10,Low,medium,Above average,1033,mid-price,400
-Bedlington Terrier,terrier,134,40,13.51,Medium,small,Average,1058,mid-price,278
-German Pinscher,working,137,no data,11.42,Low,medium,Unknown,1500,high-end,
-Affenpinscher,toy,139,37,11.42,Medium,small,Above average,510,budget,278
-Greyhound,hound,140,46,9.36,Low,large,Average,1175,mid-price,278
 Field Spaniel,sporting,141,34,9.9,Medium,medium,Above average,no data,Unknown,
 Scottish Deerhound,hound,142,47,8.7,Unknown,large,Average,no data,Unknown,
-Irish Red and White Setter,sporting,147,no data,11.57,Low,large,Unknown,1000,mid-price,
 Irish Water Spaniel,sporting,150,24,9.33,Low,medium,Excellent,no data,Unknown,
-Pharaoh Hound,hound,151,37,11.83,Medium,medium,Above average,913,mid-price,400
 Löwchen,non-sporting,152,no data,10,Unknown,small,Unknown,no data,Unknown,
-Swedish Vallhund,herding,153,no data,14.17,Unknown,small,Unknown,772,mid-price,
 Curly Coated Retriever,sporting,154,41,10.75,Medium,large,Average,no data,Unknown,
 Glen of Imaal Terrier,terrier,158,no data,10.42,Low,small,Unknown,no data,Unknown,
 Polish Lowland Sheepdog,herding,159,no data,10.8,Unknown,medium,Unknown,no data,Unknown,
-Dandie Dinmont Terrier,terrier,160,62,12.17,Low,small,Fair,925,mid-price,400
 Sussex Spaniel,sporting,161,no data,11.17,Unknown,small,Unknown,no data,Unknown,
 Sealyham Terrier,terrier,163,56,12.25,Unknown,small,Fair,no data,Unknown,
-Skye Terrier,terrier,164,55,11,Unknown,small,Fair,550,budget,
 Norwegian Buhund,herding,165,no data,12.67,Unknown,medium,Unknown,no data,Unknown,
-Komondor,working,166,no data,9.17,Low,large,Unknown,656,budget,
 Finnish Spitz,non-sporting,167,43,11.17,Low,medium,Average,no data,Unknown,
 Canaan Dog,herding,168,no data,14.67,Low,medium,Unknown,no data,Unknown,
 Otterhound,hound,169,46,10.8,Unknown,large,Average,no data,Unknown,
+Tibetan Mastiff,working,122,no data,11.92,Unknown,large,Unknown,3460,high-end,
+Black Russian Terrier,working,128,no data,1.83,Low,large,Unknown,2833,high-end,
+Bulldog,non-sporting,6,78,6.29,Medium,medium,Lowest,2680,high-end,400
+Norfolk Terrier,terrier,120,56,13.07,Medium,small,Fair,2083,high-end,400
+French Bulldog,non-sporting,18,58,9,Low,medium,Fair,1900,high-end,400
+Miniature Bull Terrier,terrier,127,no data,6.6,Unknown,small,Unknown,1740,high-end,
+Spinone Italiano,sporting,123,no data,9,Unknown,large,Unknown,1725,high-end,
+Greater Swiss Mountain Dog,working,82,no data,6.8,Low,large,Unknown,1605,high-end,
+Saluki,hound,117,43,12,Low,medium,Average,1525,high-end,609
+Nova Scotia Duck Tolling Retriever,sporting,107,no data,6.5,Unknown,medium,Unknown,1500,high-end,
+German Pinscher,working,137,no data,11.42,Low,medium,Unknown,1500,high-end,
+Leonberger,working,103,no data,6.98,Low,large,Unknown,1480,mid-price,
+Bouvier des Flandres,herding,83,29,10.34,Low,large,Above average,1335,mid-price,400
+Irish Wolfhound,hound,79,41,6.94,Low,large,Average,1333,mid-price,"1,044"
+Bernese Mountain Dog,working,34,22,7.56,Low,large,Excellent,1320,mid-price,609
+Alaskan Malamute,working,58,50,10.67,Medium,large,Average,1210,mid-price,609
+Akita,working,47,54,10.16,High,large,Average,1202,mid-price,609
+Kerry Blue Terrier,terrier,124,35,9.4,Medium,medium,Above average,1200,mid-price,400
+Newfoundland,working,43,34,9.32,Low,large,Above average,1178,mid-price,609
+Greyhound,hound,140,46,9.36,Low,large,Average,1175,mid-price,278
+Samoyed,working,69,33,12.44,Low,medium,Above average,1162,mid-price,609
+Staffordshire Bull Terrier,terrier,76,49,12.05,Low,medium,Average,1145,mid-price,400
+Tibetan Terrier,non-sporting,86,62,12.31,Medium,small,Fair,1140,mid-price,278
+Rottweiler,working,10,9,9.11,Medium,large,Brightest,1118,mid-price,609
+Bull Terrier,terrier,51,66,10.21,Medium,medium,Fair,1085,mid-price,400
+Belgian Tervuren,herding,108,14,10.6,Low,large,Excellent,1070,mid-price,400
+Bedlington Terrier,terrier,134,40,13.51,Medium,small,Average,1058,mid-price,278
+Yorkshire Terrier,toy,5,27,12.6,High,small,Above average,1057,mid-price,278
+Tibetan Spaniel,non-sporting,114,46,14.42,Low,small,Average,1050,mid-price,400
+Great Dane,working,19,48,6.96,Low,large,Average,1040,mid-price,609
+Clumber Spaniel,sporting,133,37,10,Low,medium,Above average,1033,mid-price,400
+Cavalier King Charles Spaniel,toy,21,44,11.29,Low,small,Average,1017,mid-price,278
+Irish Red and White Setter,sporting,147,no data,11.57,Low,large,Unknown,1000,mid-price,
+Rhodesian Ridgeback,hound,44,52,9.1,Medium,large,Average,995,mid-price,400
+Bullmastiff,working,40,69,7.57,Low,large,Fair,980,mid-price,400
+Golden Retriever,sporting,4,4,12.04,Low,medium,Brightest,958,mid-price,400
+Basenji,hound,93,79,13.58,Medium,medium,Lowest,940,mid-price,278
+Vizsla,sporting,37,25,12.5,Unknown,medium,Excellent,935,mid-price,
+English Toy Spaniel,toy,129,45,10.1,Medium,small,Average,925,mid-price,295
+Dandie Dinmont Terrier,terrier,160,62,12.17,Low,small,Fair,925,mid-price,400
+Whippet,hound,57,51,12.87,Medium,medium,Average,915,mid-price,278
+Pharaoh Hound,hound,151,37,11.83,Medium,medium,Above average,913,mid-price,400
+Poodle,non-sporting,8,2,11.95,Medium,medium,Brightest,900,mid-price,400
+Mastiff,working,28,72,6.5,Low,large,Lowest,900,mid-price,512
+Shiba Inu,non-sporting,53,no data,7,Unknown,small,Unknown,890,mid-price,
+Afghan Hound,hound,88,80,11.92,Low,large,Lowest,890,mid-price,609
+Pekingese,toy,64,74,11.56,Medium,small,Lowest,885,mid-price,400
+Saint Bernard,working,49,65,7.78,Low,large,Fair,875,mid-price,"1,044"
+Brussels Griffon,toy,77,59,12,High,small,Fair,833,mid-price,278
+Border Terrier,terrier,80,30,14,Low,small,Above average,833,mid-price,278
+Soft-Coated Wheaten Terrier,terrier,52,40,12.16,Unknown,medium,Average,832,mid-price,
+Old English Sheepdog,herding,84,63,11.19,Low,medium,Fair,832,mid-price,609
+Havanese,toy,31,no data,10.25,Low,small,Unknown,830,mid-price,
+Scottish Terrier,terrier,54,65,10.69,Medium,small,Fair,829,mid-price,278
+Cardigan Welsh Corgi,herding,81,26,12.7,Low,small,Excellent,828,mid-price,
+German Shepherd,herding,2,3,9.73,Medium,large,Brightest,820,mid-price,400
+Labrador Retriever,sporting,1,7,12.04,Low,medium,Brightest,810,mid-price,400
+Giant Schnauzer,working,95,28,10,Medium,large,Above average,810,mid-price,984
+English Cocker Spaniel,sporting,63,18,11.66,Low,medium,Excellent,800,mid-price,278
+Italian Greyhound,toy,65,60,10.02,High,small,Fair,800,mid-price,278
+Doberman Pinscher,working,13,5,10.33,Medium,large,Brightest,790,mid-price,400
+Swedish Vallhund,herding,153,no data,14.17,Unknown,small,Unknown,772,mid-price,
+Wirehaired Pointing Griffon,sporting,92,46,8.8,Unknown,medium,Average,755,mid-price,
+Welsh Springer Spaniel,sporting,130,31,12.49,Low,medium,Above average,750,mid-price,278
+Papillon,toy,38,8,13,Medium,small,Brightest,740,mid-price,278
+Airedale Terrier,terrier,55,29,11.45,Low,medium,Above average,733,mid-price,
+Manchester Terrier,terrier,119,32,9.32,Unknown,small,Above average,720,mid-price,
+Miniature Schnauzer,terrier,12,12,11.81,Medium,small,Excellent,715,mid-price,295
+Boxer,working,7,48,8.81,Low,medium,Average,700,mid-price,400
+Gordon Setter,sporting,94,34,11.1,Low,large,Above average,700,mid-price,400
+Dalmatian,non-sporting,73,39,11.27,Low,medium,Above average,695,budget,400
+Bichon Frise,non-sporting,39,45,12.21,Low,small,Average,693,budget,278
+Boston Terrier,non-sporting,22,54,10.92,Low,medium,Average,690,budget,278
+Borzoi,hound,102,76,9.08,Medium,large,Lowest,675,budget,400
+Pomeranian,toy,17,23,9.67,Medium,small,Excellent,670,budget,278
+Wire Fox Terrier,terrier,100,51,13.17,Unknown,small,Average,668,budget,
+Schipperke,non-sporting,105,15,13,Unknown,small,Excellent,658,budget,
+Komondor,working,166,no data,9.17,Low,large,Unknown,656,budget,
+German Wirehaired Pointer,sporting,75,44,10,Low,large,Average,655,budget,
+Siberian Husky,working,16,45,12.58,Low,medium,Average,650,budget,400
+Maltese,toy,23,59,12.25,High,small,Fair,650,budget,197
+Briard,herding,125,30,11.17,Low,large,Above average,650,budget,400
+Australian Terrier,terrier,121,34,11.05,Medium,small,Above average,640,budget,278
+Border Collie,herding,45,1,12.52,High,medium,Brightest,623,budget,278
+Brittany,sporting,30,19,12.92,Medium,medium,Excellent,618,budget,400
+English Springer Spaniel,sporting,29,13,12.54,Low,medium,Excellent,615,budget,400
+English Setter,sporting,87,37,11.57,Low,large,Above average,615,budget,400
+Keeshond,non-sporting,98,16,12.17,Low,medium,Excellent,610,budget,
+Bloodhound,hound,48,75,6.75,Medium,large,Lowest,608,budget,609
+Flat-Coated Retriever,sporting,90,18,9.02,Low,medium,Excellent,600,budget,400
+Chihuahua,toy,14,67,16.5,High,small,Fair,588,budget,278
+Pembroke Welsh Corgi,herding,25,11,12.25,Low,small,Excellent,587,budget,492
+Shih Tzu,toy,11,70,13.2,Low,small,Lowest,583,budget,278
+Smooth Fox Terrier,terrier,113,40,13.17,Unknown,small,Average,575,budget,
+Australian Shepherd,herding,24,42,12.28,Medium,medium,Average,565,budget,400
+Skye Terrier,terrier,164,55,11,Unknown,small,Fair,550,budget,
+German Shorthaired Pointer,sporting,15,17,11.46,Low,large,Excellent,545,budget,708
+West Highland White Terrier,terrier,35,47,12.8,Low,small,Average,538,budget,278
+Chinese Crested,toy,61,61,10.08,Low,small,Fair,538,budget,
+Australian Cattle Dog,herding,60,10,11.67,High,medium,Brightest,530,budget,400
+Irish Setter,sporting,70,35,11.63,Low,large,Above average,525,budget,400
+Chesapeake Bay Retriever,sporting,46,27,9.48,Low,large,Above average,522,budget,400
+Chow Chow,non-sporting,68,77,9.01,Medium,medium,Lowest,515,budget,400
+Japanese Chin,toy,78,62,9.25,Low,small,Fair,513,budget,
+Affenpinscher,toy,139,37,11.42,Medium,small,Above average,510,budget,278
+Great Pyrenees,working,71,64,10,Low,large,Fair,503,budget,
+Basset Hound,hound,41,71,11.43,Low,small,Lowest,490,budget,278
+Pug,toy,26,57,11,Low,medium,Fair,469,budget,295
+Shetland Sheepdog,herding,20,6,12.53,Low,small,Brightest,465,budget,295
+Cocker Spaniel,sporting,27,20,12.5,Low,small,Excellent,465,budget,492
+Silky Terrier,toy,85,37,14.25,Unknown,small,Above average,448,budget,
+Cairn Terrier,terrier,59,35,13.84,Low,small,Above average,435,budget,278
+Dachshund,hound,9,49,12.63,High,small,Average,423,budget,278
+Petit Basset Griffon Vendeen,hound,131,62,12.7,Unknown,small,Fair,400,budget,
+Lhasa Apso,non-sporting,62,68,13.92,Low,small,Fair,350,budget,278
+Pointer,sporting,115,43,12.42,Low,large,Average,294,budget,609
+Beagle,hound,3,73,12.3,Low,small,Lowest,288,budget,278
+American English Coonhound,hound,33,no data,11.5,Low,large,Unknown,283,budget,
